@@ -5,4 +5,4 @@
 grade1 = float(input("Enter the student frist grade: "))
 grade2 = float(input("Enter the student second grade: "))
 average = (grade1 + grade2) / 2
-print(f"The student's' average is {average:.1f}")
+print(f"The student's average is {average:.1f}")

@@ -3,3 +3,4 @@
 
 n = int(input("Enter a number: "))
 print(f"Analyzing {n}, predecessor: {n-1}, successor: {n+1}")
+

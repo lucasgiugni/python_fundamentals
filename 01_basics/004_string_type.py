@@ -12,3 +12,4 @@ print(f'Is it in uppercase?  {a.isupper()}')
 print(f'Is it in lowercase? {a.islower()}')
 print(f'Is it capitalized?" {a.istitle()}')
 
+
